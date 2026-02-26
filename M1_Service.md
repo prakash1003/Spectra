@@ -1,10 +1,10 @@
 # M1 Service — VLM Inference
 
-**Service Name**: `sightapi_m1`
-**Port**: `7081`
-**Role in Pipeline**: Stage 2 — AI Visual Understanding
-**Queue In**: `M0_RESULTS_QUEUE`
-**Queue Out**: `M1_INFERENCE_QUEUE`
+**Service Name**: `sightapi_m1`<br>
+**Port**: `7081`<br>
+**Role in Pipeline**: Stage 2 — AI Visual Understanding<br>
+**Queue In**: `M0_RESULTS_QUEUE`<br>
+**Queue Out**: `M1_INFERENCE_QUEUE`<br>
 
 ---
 
