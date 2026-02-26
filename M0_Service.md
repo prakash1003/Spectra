@@ -1,10 +1,10 @@
 # M0 Service — Video Preprocessing & Chunking
 
-**Service Name**: `sightapi_m0`
-**Port**: `9000`
-**Role in Pipeline**: Stage 1 — Ingestion & Preprocessing
-**Queue In**: `M0_PRIORITY_QUEUE`
-**Queue Out**: `M0_RESULTS_QUEUE`
+**Service Name**: `sightapi_m0`<br>
+**Port**: `9000`<br>
+**Role in Pipeline**: Stage 1 — Ingestion & Preprocessing<br>
+**Queue In**: `M0_PRIORITY_QUEUE`<br>
+**Queue Out**: `M0_RESULTS_QUEUE`<br>
 
 ---
 
