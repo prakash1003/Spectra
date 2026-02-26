@@ -1,10 +1,10 @@
 # M2 Service — Event Detection, Embedding & Indexing
 
-**Service Name**: `sightapi_m2`
-**Port**: `7082`
-**Role in Pipeline**: Stage 3 — Intelligence Extraction & Search Indexing
-**Queue In**: `M1_INFERENCE_QUEUE`
-**Queue Out**: None (terminal stage of the batch/live pipeline)
+**Service Name**: `sightapi_m2`<br>
+**Port**: `7082`<br>
+**Role in Pipeline**: Stage 3 — Intelligence Extraction & Search Indexing<br>
+**Queue In**: `M1_INFERENCE_QUEUE`<br>
+**Queue Out**: None (terminal stage of the batch/live pipeline)<br>
 
 ---
 
