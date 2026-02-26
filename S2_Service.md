@@ -1,10 +1,10 @@
 # S2 Service — Live Camera Stream Processing (KVS)
 
-**Service Name**: `sightapi_s2`
-**Port**: `7084`
-**Role in Pipeline**: Parallel Live Stream Branch — Camera Ingestion via AWS KVS
-**Queue In**: `S2_PROCESSING_QUEUE`
-**Queue Out**: M0 pipeline (publishes camera clip for M0 → M1 → M2 processing)
+**Service Name**: `sightapi_s2` <br>
+**Port**: `7084`<br>
+**Role in Pipeline**: Parallel Live Stream Branch — Camera Ingestion via AWS KVS <br>
+**Queue In**: `S2_PROCESSING_QUEUE`<br>
+**Queue Out**: M0 pipeline (publishes camera clip for M0 → M1 → M2 processing)<br>
 
 ---
 
